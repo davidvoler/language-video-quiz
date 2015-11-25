@@ -23,7 +23,7 @@ node_modules
 .npm
 .git
 .build*
-packages/
+#packages/
 
 .meteor/local/
 .meteor/meteorite
